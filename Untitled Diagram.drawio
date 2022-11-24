@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:18:15.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Fzo1gwKRFfZ6BOKFyR0H" type="github"><diagram id="KXKxymbXX0IcOuNv-YGf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T09:53:45.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="MeRIwGPxXfEOaF8FXSw2" type="github">
+  <diagram id="_hb43gfGvPdzossE4yqr" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-1" target="bhQ-heTgGJouBrCOcXTa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-1" value="เริ่มต้น" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-8" target="bhQ-heTgGJouBrCOcXTa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-8" value="จัดที่นอน" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-10" target="bhQ-heTgGJouBrCOcXTa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-10" value="อาบน้ำ" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-12" target="bhQ-heTgGJouBrCOcXTa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-12" value="รีดชุดนักเรียน" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-14" target="bhQ-heTgGJouBrCOcXTa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-14" value="ทำผม" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-16" target="bhQ-heTgGJouBrCOcXTa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-16" value="แต่งหน้า" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-18" target="bhQ-heTgGJouBrCOcXTa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-18" value="ตรวจเครื่อแต่งกาย" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-20" target="bhQ-heTgGJouBrCOcXTa-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-20" value="เดินลงจากหอ" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-22" target="bhQ-heTgGJouBrCOcXTa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-22" target="bhQ-heTgGJouBrCOcXTa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-22" value="เดินไปสหการเพื่อซื้อข้าว" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-24" target="bhQ-heTgGJouBrCOcXTa-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-24" value="ไป" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-26" target="bhQ-heTgGJouBrCOcXTa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-26" value="ไม่ไป" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-30" target="bhQ-heTgGJouBrCOcXTa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-30" value="เสียตัง50บาท" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-32" target="bhQ-heTgGJouBrCOcXTa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-32" value="ไม่ต้องเสียตัง50บาท" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhQ-heTgGJouBrCOcXTa-34" target="bhQ-heTgGJouBrCOcXTa-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-34" value="เดินไปเรียน" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhQ-heTgGJouBrCOcXTa-39" value="จบ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1410" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
